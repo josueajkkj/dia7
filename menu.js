@@ -1,3 +1,5 @@
+
+//agregar mas propiedades como estados o mas variado el menu 
 export let menu = [
     { nombre: "Arroz con pollo", precio: 12, stock: 5 },
     { nombre: "Lomo saltado", precio: 18, stock: 3 },
